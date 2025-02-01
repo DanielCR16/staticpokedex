@@ -1,5 +1,11 @@
 
+# **POKEDEX STATIC - AstroJS Basics**
 
+This project was generated with AstroJS version 5.1.10.
+
+## Enlace de página
+
+[Ir al enlace](https://pokedexastrojs.netlify.app/)
 
 ## 🧞 Commands
 
